@@ -66,6 +66,10 @@ outline-offset: 5px; */
 	background-color: #54b076;
 }
 
+#intro-text a:hover{
+	background-color: #6224f2;
+}
+
 body{
 	font-family: 'Arial', serif;
 	line-height:150%;
@@ -214,11 +218,11 @@ a:hover{
 	font-family: 'Cutive Mono', monospace;
 }
 #content .cv-section h4.title{
-	font-size:14px;
+	font-size:13px;
 	font-style:normal;
 	color: rgb(0, 0, 0);
 	margin:0 0 -35px 0;
-	font-weight: 700;
+	font-weight: 600;
 }
 #content .cv-section h4.conference span.award{
 	font-size:12px;
@@ -253,6 +257,7 @@ a:hover{
 #content .cv-section h4.meta{
 	margin-top: 35px;
 	font-size:12px;
+	font-weight: 400;
 	color:rgb(2, 2, 2);
 	/* margin-bottom: 0px; */
 	line-height:120%
