@@ -125,6 +125,7 @@ p{
 	line-height:22px;
 	margin:0 0 15px 0;
 }
+
 a{
 	text-decoration:none;
 	color: #007bb5;
@@ -287,9 +288,10 @@ a:hover{
 
 
 #content .cv-section p{
-	font-size:14px;
-	color:#555;
-	letter-spacing:0;
+	font-style: normal;
+	color: #503af2; 
+	display: inline; 
+	font-size: 12px;
 }
 
 
@@ -312,8 +314,6 @@ a:hover{
 	color:rgb(0, 0, 0);
 	letter-spacing:0;
 }
-
-
 
 /* #content .cv-section span.con{
 	margin-top:-10px;
