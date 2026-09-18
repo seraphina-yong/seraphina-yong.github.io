@@ -53,7 +53,7 @@ outline-offset: 5px; */
 	line-height:150%
 }
 
-#intro a{
+/* #intro a{
 	color: #0000E3;
 	font-weight: normal;
 	font-style: bold;
@@ -68,7 +68,7 @@ outline-offset: 5px; */
 
 #intro-text a:hover{
 	background-color: #6224f2;
-}
+} */
 
 body{
 	font-family: 'Arial', serif;
